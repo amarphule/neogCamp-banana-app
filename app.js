@@ -1,8 +1,3 @@
-const button = document.querySelector('.btn-translate');
-const inputArea = document.querySelector('#input-text')
-const outputArea = document.querySelector('.output')
-
-
 var btntranslate = document.querySelector('.btn-translate')
 var textInput = document.querySelector("#input-text")
 var textoutput = document.querySelector(".output")
